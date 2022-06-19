@@ -32,7 +32,7 @@ Clone this repository
 
   
 
->git clone https://github.com/shzshi/challenges
+>git clone https://github.com/shzshi/kpmg-challenge
 
   
   
@@ -73,11 +73,11 @@ Open the src folder
 
   
 
->cd challenges/challenge2/
+>cd kpmg-challenge/challenge2/
 
   
 
-Run whichever script you need:
+Run script you need:
 
   
 

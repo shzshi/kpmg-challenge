@@ -1,0 +1,2 @@
+
+![infra](ecs-infra.png)
